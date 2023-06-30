@@ -1,0 +1,11 @@
+
+100
+16
+-2
+2
+1
+B97-3c defgrid2 normalSCF noautostart miniprint nopop
+
+
+
+
